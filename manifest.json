@@ -2,8 +2,8 @@
   "name": "FORMA · Ricardo",
   "short_name": "FORMA",
   "description": "Tu coach personal de nutrición, ejercicio y hábitos",
-  "start_url": "/controldepeso/index.html",
-  "scope": "/controldepeso/",
+  "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#070a0e",
   "theme_color": "#070a0e",
@@ -23,21 +23,5 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["health", "fitness", "lifestyle"],
-  "shortcuts": [
-    {
-      "name": "Hoy",
-      "short_name": "Hoy",
-      "description": "Checklist del día",
-      "url": "/controldepeso/index.html",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
-    },
-    {
-      "name": "Nutrición",
-      "short_name": "Menú",
-      "description": "Menú de hoy",
-      "url": "/controldepeso/index.html",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
-    }
-  ]
+  "categories": ["health", "fitness", "lifestyle"]
 }

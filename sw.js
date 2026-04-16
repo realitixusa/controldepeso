@@ -1,9 +1,9 @@
 const CACHE = 'forma-v1';
 const ASSETS = [
-  '/controldepeso/index.html',
-  '/controldepeso/manifest.json',
-  '/controldepeso/icon-192.png',
-  '/controldepeso/icon-512.png'
+  '/index.html',
+  '/manifest.json',
+  '/icon-192.png',
+  '/icon-512.png'
 ];
 
 self.addEventListener('install', e => {
